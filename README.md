@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugobur
-- 👀 I’m interested in F1
-- 🌱 I’m currently learning Automotive Engineering
-- 💞️ I’m looking to collaborate on...
+- 👀 I’m interested in vehicle dynamics and simulation
+- 🌱 I’m currently studying MEng Automotive Engineering.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me - email.
 
 <!---
